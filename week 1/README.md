@@ -5,7 +5,7 @@
 - Install Opencv-Python Package
 # Write a "Hello world" app
 - Read, Write and Display a video/webcam using OpenCV python
-
+```python
 import cv2
 import numpy as np
 
@@ -46,3 +46,4 @@ out.release()
 # Closes all the frames
 
 cv2.destroyAllWindows() 
+```
