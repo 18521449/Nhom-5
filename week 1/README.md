@@ -1,6 +1,6 @@
 # Setup Environment
-- Create Github Repository
-- Install Ubuntu Desktop
+- [Create Github Repository](https://github.com/18521449/Nhom-5)
+- [Install Ubuntu Desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop#11-installation-complete)
 - Install Python 3.6 or later
 - Install Opencv-Python Package
 # Write a "Hello world" app
