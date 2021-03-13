@@ -1,11 +1,7 @@
 # Setup Environment
 - [Create Github Repository](https://github.com/18521449/Nhom-5)
 - [Install Ubuntu Desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop#11-installation-complete)
-- Install Python 3.6 or later
-```shell
-Python 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:20:19) [MSC v.1925 32 bit (Intel)] on win32
-Type "help", "copyright", "credits" or "license" for more information.
-```
+- [Install Python 3.6 or later](https://linuxize.com/post/how-to-install-python-3-7-on-ubuntu-18-04/)
 - [Install Opencv-Python Package](https://acodary.wordpress.com/2018/07/21/opencv-cai-dat-opencv-python-tren-windows/)
 # Write a "Hello world" app
 - Read, Write and Display a video/webcam using OpenCV python
