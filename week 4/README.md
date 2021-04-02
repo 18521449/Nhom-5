@@ -1,5 +1,8 @@
 # Complete The Image Processing Algorithm with Pipeline
 ## Algorithm to convert RGB to HSV
+* R' = R/255
+* G' = G/255
+* B' = B/255
 * Cmax = max(R, G, B)
 * Cmin = min(R, G, B)
 * Δ = Cmax - Cmin
