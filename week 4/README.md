@@ -19,6 +19,8 @@
 ![image](https://user-images.githubusercontent.com/80138548/113431291-b8bbe100-9405-11eb-93aa-03c0dd85bb64.png)
 ### Packing into Blocks
 ![image](https://user-images.githubusercontent.com/80138548/113432068-ece3d180-9406-11eb-98e3-e2a460aab881.png)
+### Packing Architecture
+![image](https://user-images.githubusercontent.com/80138548/113461954-f68e2900-9448-11eb-88aa-4395ec255dd7.png)
 ### For Synthesis
 ![image](https://user-images.githubusercontent.com/80138548/113461202-d446dc00-9445-11eb-8a94-e48d4b375936.png)
 ### Elaborate Synthetic 
