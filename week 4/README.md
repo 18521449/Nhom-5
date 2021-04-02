@@ -3,8 +3,8 @@
 * R' = R/255
 * G' = G/255
 * B' = B/255
-* Cmax = max(R, G, B)
-* Cmin = min(R, G, B)
+* Cmax = max(R', G', B')
+* Cmin = min(R', G', B')
 * Δ = Cmax - Cmin
 * ![image](https://user-images.githubusercontent.com/80138548/113434889-f91e5d80-940b-11eb-82f7-004fe3b9b900.png)
 * ![image](https://user-images.githubusercontent.com/80138548/113434896-fde31180-940b-11eb-8170-3626a8279cb4.png)
