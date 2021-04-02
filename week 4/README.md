@@ -2,7 +2,8 @@
 ## Algorithm to convert RGB to HSV
 * Cmax = max(R, G, B)
 * Cmin = min(R, G, B)
-Δ = Cmax - Cmin
+* Δ = Cmax - Cmin
+![image](https://user-images.githubusercontent.com/80138548/113434477-3f26f180-940b-11eb-96fb-8d0373033a48.png)
 
 
 ## Flow design
