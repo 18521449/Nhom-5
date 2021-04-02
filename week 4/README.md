@@ -3,9 +3,9 @@
 * Cmax = max(R, G, B)
 * Cmin = min(R, G, B)
 * Δ = Cmax - Cmin
-![image](https://user-images.githubusercontent.com/80138548/113434477-3f26f180-940b-11eb-96fb-8d0373033a48.png)
-![image](https://user-images.githubusercontent.com/80138548/113434580-6a114580-940b-11eb-8c4e-a03475623b8c.png)
-V = Cmax
+** H = 0 (Δ = 0)
+- H = 
+* V = Cmax
 
 
 ## Flow design
