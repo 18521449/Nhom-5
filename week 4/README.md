@@ -11,7 +11,11 @@
 * V = Cmax
 ## Flow design
 * [Flow Chart](https://app.diagrams.net/?fbclid=IwAR1fjrVOX3SCWkY1vKT1b3HXc2fjLFqlScDW--JnYbSywBPbDvmcMNB186E#G1GxThnxqGejAUG-dMLXlUXjfQ_eMaO8ab) 
-### Pipeline Orientation
+### Directory Architecture
+![image](https://user-images.githubusercontent.com/80138548/113461370-7bc40e80-9446-11eb-92ed-a91e71dd5b56.png)
+### Data flow
+![image](https://user-images.githubusercontent.com/80138548/113461413-b0d06100-9446-11eb-9979-a7138d4561da.png)
+### Design Architecture
 ![image](https://user-images.githubusercontent.com/80138548/113431291-b8bbe100-9405-11eb-93aa-03c0dd85bb64.png)
 ### Packing into Blocks
 ![image](https://user-images.githubusercontent.com/80138548/113432068-ece3d180-9406-11eb-98e3-e2a460aab881.png)
