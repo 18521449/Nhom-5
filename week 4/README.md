@@ -29,6 +29,9 @@
 ![image](https://user-images.githubusercontent.com/80138548/113467356-b6d93880-946c-11eb-8f79-82a500b6cf41.png)
 ### Power Synthesic
 ![image](https://user-images.githubusercontent.com/80138548/113467385-eb4cf480-946c-11eb-927f-280f4e2cfcee.png)
+### Result Synthesic
+![image](https://user-images.githubusercontent.com/80138548/113467472-5f879800-946d-11eb-9ad5-4ecd41f5f5f3.png)
+
 
 
 
