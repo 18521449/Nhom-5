@@ -1,4 +1,5 @@
 ## Convert_FloatingPoint_to_Integer Module
+```verilog
 module Convert_FloatingPoint_to_Integer (Int, FP, valid_in, valid_out);
 
 input valid_in;
@@ -22,9 +23,10 @@ always @(FP or valid_in) begin
 end
 
 endmodule
-
+```
 
 ## Convert_Integer_to_FloatingPoint Module
+```verilog
 module Convert_Integer_to_FloatingPoint (FP, Int, valid_in, valid_out);
 
 input valid_in;
@@ -54,4 +56,4 @@ always @(FP or valid_in) begin
 end
 
 endmodule
-
+```
