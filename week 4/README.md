@@ -21,10 +21,14 @@
 ![image](https://user-images.githubusercontent.com/80138548/113432068-ece3d180-9406-11eb-98e3-e2a460aab881.png)
 ### Packing Architecture
 ![image](https://user-images.githubusercontent.com/80138548/113461954-f68e2900-9448-11eb-88aa-4395ec255dd7.png)
-### For Synthesis
-![image](https://user-images.githubusercontent.com/80138548/113461202-d446dc00-9445-11eb-8a94-e48d4b375936.png)
 ### Elaborate Synthetic 
 ![image](https://user-images.githubusercontent.com/80138548/113461142-95b12180-9445-11eb-9ca9-5432f60a4a54.png)
+### Post-implementation schematic
+![image](https://user-images.githubusercontent.com/80138548/113467419-133c5800-946d-11eb-872d-ef4dee553270.png)
+### For Synthesis
+![image](https://user-images.githubusercontent.com/80138548/113467356-b6d93880-946c-11eb-8f79-82a500b6cf41.png)
+### Power Synthesic
+![image](https://user-images.githubusercontent.com/80138548/113467385-eb4cf480-946c-11eb-927f-280f4e2cfcee.png)
 
 
 
