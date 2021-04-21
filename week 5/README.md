@@ -1,1 +1,1 @@
-# Assignment 2: Implementation of image classification using VGG16
+# Assignment 3: Implementation of image classification using VGG16
