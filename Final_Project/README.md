@@ -1,6 +1,8 @@
 **Mô hình sử dụng:**
 
 ![image](https://user-images.githubusercontent.com/80138548/127025136-eee36b13-38ff-4ddd-a44d-c8965d6403bd.png)
+
+
 ![image](https://user-images.githubusercontent.com/80148486/127024061-3d42019d-b0f8-42b9-ad73-b90a610edd2e.png)
 
 --------------------------------------------------------------------------------
@@ -13,7 +15,7 @@
 --------------------------------------------------------------------------------
 ![KERAS_moto1_block1](https://user-images.githubusercontent.com/80148486/127021578-c0268bc5-739c-4c63-98e6-e50b62f5eacf.png)
 ![RTL_moto1_block1](https://user-images.githubusercontent.com/80148486/127021641-526a3532-8235-4fa1-806d-9f5bdad634d1.png)
-Mean square error:
+Mean square error: 1.9441211270012720012828e-3
 
 **Block2**
 --------------------------------------------------------------------------------
