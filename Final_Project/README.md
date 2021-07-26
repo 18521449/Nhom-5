@@ -1,6 +1,6 @@
 **Mô hình sử dụng:**
 
-![image](https://user-images.githubusercontent.com/80148486/127023067-7c00caa6-c2d9-451a-abbf-235826299392.png)
+![image](https://user-images.githubusercontent.com/80138548/127025136-eee36b13-38ff-4ddd-a44d-c8965d6403bd.png)
 ![image](https://user-images.githubusercontent.com/80148486/127024061-3d42019d-b0f8-42b9-ad73-b90a610edd2e.png)
 
 --------------------------------------------------------------------------------
@@ -47,7 +47,9 @@ Mean square error:3.721290042574769e-06
 
 ********************************************************************************
 **Input**
+
 ![car_1](https://user-images.githubusercontent.com/80148486/127023437-923011ab-9a7d-469d-a5f7-e6102dcf05fc.jpg)
+
 **Block1**
 --------------------------------------------------------------------------------
 ![KERAS_car1_block1](https://user-images.githubusercontent.com/80148486/127023470-a30255ec-b6f7-474a-8958-44ef18f6356e.png)
